@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>DBH Retextures</name>
+    <name>Dubs Bad Hygiene (DBH) Retextures (Continued)</name>
     <packageId>Farxmai2.DBH.Retexture</packageId>
     <author>Farxmai2, Kobe Riddle</author>
     <supportedVersions>
@@ -19,5 +19,6 @@
         <li>Dubwise.DubsBadHygiene</li>
         <li>Dubwise.DubsBadHygiene.Lite</li>
         <li>Dubwise.DubsCentralHeating</li>
+        <li>dbh.upscaled</li>
     </loadAfter>
 </ModMetaData>
